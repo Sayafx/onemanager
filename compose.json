@@ -1,0 +1,7 @@
+{
+  "extra": {
+    "paas": {
+      "nginx-includes": ["nginx-rewrite.conf"]
+    }
+  }
+}
